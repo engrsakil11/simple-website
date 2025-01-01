@@ -20,3 +20,10 @@ img{
 .images-2{
     text-align: center;
 }
+ul li{
+    color: red;
+}
+ul .colour{
+    background-color: black;
+    text-align: center;
+}
